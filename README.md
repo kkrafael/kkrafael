@@ -1,8 +1,11 @@
 # Olá 👋
+<sub>Atualizado em: 13/09/2023</sub>
 #### BR
-<sub>atualizado em: 13/09/2023</sub>
 
 Bem vindo ao meu portifólio no GitHub
+
+
+
 
 ## Sobre mim 
 
@@ -19,8 +22,13 @@ As ferramentas que mais utilizo:
 ## Contato
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 https://www.linkedin.com/in/rafael-krasinski-19492a138/
+
+
+
+rkrasinski98@gmail.com
 
 ## Agradecimento
 
