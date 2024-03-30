@@ -1,16 +1,16 @@
 # Olá 👋
-<sub>Atualizado em: 13/09/2023</sub>
+<sub>Atualizado em: 30/03/2024</sub>
 #### BR
 
-Bem vindo ao meu portifólio no GitHub
+Bem-vindo ao meu portifólio no GitHub!
 
 
 
 
 ## Sobre mim 
 
-Me chamo Rafael Krasinski, estou fazendo bacharelado em Ciência de Dados para Negócios na FAE, em Curitiba.
-Atualmente sou Engenheiro de Dados Jr, tendo como responsabilidade a sustentação de pipelines, migração de notebook legado para o ambiente atual, e orquestração de jobs no Databricks, mas ja tive experiência com análise de dados, criando dashboard's, manipulando dados de diferentes fontes e automatizando atividades.
+Me chamo Rafael Krasinski e estou fazendo bacharelado em Ciência de Dados para Negócios na FAE, em Curitiba.
+Atualmente sou Engenheiro de Dados Jr., tendo como responsabilidades a sustentação de pipelines, migração de notebook legado para o ambiente atual e orquestração de jobs no Databricks; mas já tive experiência com análise de dados, criando dashboard's, manipulando dados de diferentes fontes e automatizando atividades.
 
 As ferramentas que mais utilizo:
 
@@ -33,4 +33,4 @@ rkrasinski98@gmail.com
 
 ## Agradecimento
 
-Obrigado por ter visitado meu portifólio, fique a vontade para entrar em contato comigo!
+Obrigado por ter visitado meu portifólio, fique à vontade para entrar em contato comigo!
