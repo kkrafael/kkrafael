@@ -26,7 +26,6 @@ As ferramentas que mais utilizo:
 
 <a href="https://www.linkedin.com/in/rafael-krasinski-19492a138/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 rkrasinski98@gmail.com
