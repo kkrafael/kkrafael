@@ -10,7 +10,7 @@ Bem-vindo ao meu portifólio no GitHub!
 ## Sobre mim 
 
 Me chamo Rafael Krasinski e estou fazendo bacharelado em Ciência de Dados para Negócios na FAE, em Curitiba.
-Atualmente sou Engenheiro de Dados Jr., tendo como responsabilidades a sustentação de pipelines, migração de notebook legado para o ambiente atual e orquestração de jobs no Databricks; mas já tive experiência com análise de dados, criando dashboard's, manipulando dados de diferentes fontes e automatizando atividades.
+Já tive experiência com análise de dados, criando dashboard's, manipulando dados de diferentes fontes e automatizando atividades.
 
 As ferramentas que mais utilizo:
 
